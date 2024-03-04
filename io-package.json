@@ -3,6 +3,9 @@
         "name": "rssfeed",
         "version": "2.8.2",
         "news": {
+            "2.8.2": {
+                "en": "removed vis"
+            },
             "2.7.0": {
                 "en": "admin changed to jsonConfig, dev-environment now devcontainer"
             },
