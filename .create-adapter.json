@@ -4,7 +4,7 @@
     "adapterName": "rssfeed",
     "title": "rssfeed",
     "expert": "yes",
-    "features": ["adapter", "vis"],
+    "features": ["adapter"],
     "adminFeatures": [],
     "type": "misc-data",
     "startMode": "daemon",
